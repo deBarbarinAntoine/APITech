@@ -179,7 +179,7 @@ const productImages = [
     'odyssey-g9-by-samsung.jpg',
     'orange-pi-5-sbc.jpg',
     'geekworm-onion-omega-2.jpg',
-    'lg-27gn850-b-monitor.jpg',
+    'lg-27gn800-b-monitor.jpg',
     'rock-pi-4-model-b-plus.jpg',
     'apple-mac-mini-m2.jpg',
     'msi-modern-am271-2k-monitor.jpg',
