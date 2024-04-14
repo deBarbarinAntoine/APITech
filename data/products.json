@@ -37,7 +37,7 @@
     "type": "Camera",
     "description": "Full-frame mirrorless camera with a high-resolution sensor, fast autofocus, and excellent video capabilities.",
     "price": 2498,
-    "image": "/static/img/camera/sony-a7-iv-mirrorless-camera.jpg"
+    "image": "/static/img/camera/sony-a7-iv.jpg"
   },
   {
     "id": 6,
@@ -181,7 +181,7 @@
     "type": "Phone Accessories",
     "description": "Smartphone gimbal for stabilized video recording with your phone, perfect for vlogging or filmmaking.",
     "price": 199,
-    "image": "/static/img/phone/accessories/dji-osmo-mobile-6.jpg"
+    "image": "/static/img/phone/accessories/dji-osmo-mobile-6-gimbal.jpg"
   },
   {
     "id": 24,
@@ -394,10 +394,10 @@
   {
     "id": 50,
     "name": "Thermaltake H500 ATX Mid Tower Case",
-    "type": "Computer Peripherals",
+    "type": "Computer Components",
     "description": "ATX mid-tower case with ample space for building a desktop PC, featuring good airflow and tempered glass panels for showcasing your components.",
     "price": 129,
-    "image": "/static/img/computer/peripherals/thermaltake-h500-case.jpg"
+    "image": "/static/img/computer/components/thermaltake-h500-case.jpg"
   },
   {
     "id": 51,
@@ -465,7 +465,7 @@
   },
   {
     "id": 59,
-    "name": " be quiet! Pure Rock 2 Black CPU Cooler",
+    "name": "Be quiet! Pure Rock 2 Black CPU Cooler",
     "type": "Computer Components",
     "description": "Quiet and efficient air cooler for desktops, providing good thermal performance at a low noise level.",
     "price": 49,
@@ -562,10 +562,10 @@
   {
     "id": 71,
     "name": "Phanteks Enthoo Pro ATX Full Tower Case",
-    "type": "Computer Peripherals",
+    "type": "Computer Components",
     "description": "Spacious ATX full tower case with excellent airflow, tempered glass panels, and good cable management options for building a well-cooled and organized PC.",
     "price": 149,
-    "image": "/static/img/computer/peripherals/phanteks-enthoo-pro-case.jpg"
+    "image": "/static/img/computer/components/phanteks-enthoo-pro-case.jpg"
   },
   {
     "id": 72,
@@ -625,11 +625,11 @@
   },
   {
     "id": 79,
-    "name": " Be quiet! Pure Base 500 FX ATX Case",
-    "type": "Computer Peripherals",
+    "name": "Be quiet! Pure Base 500 FX ATX Case",
+    "type": "Computer Components",
     "description": "Mid-tower RGB ATX case with good airflow, sound dampening materials for quiet operation, and a tempered glass side panel for showcasing your components.",
     "price": 179,
-    "image": "/static/img/computer/peripherals/be-quiet-pure-base-500-fx-case.jpg"
+    "image": "/static/img/computer/components/be-quiet-pure-base-500-fx-case.jpg"
   },
   {
     "id": 80,
